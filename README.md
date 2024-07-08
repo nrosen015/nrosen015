@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I’m currently working on coding projects for school!
+## I'm looking for help with adding my school to the jetbrains github so that I can use Intellij IDEA with a student license, but my high school is not added to the list
 
 <!--
 **nrosen015/nrosen015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
